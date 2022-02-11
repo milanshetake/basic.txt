@@ -1,0 +1,26 @@
+Data Science @ 6PM ->
+---------------------
+24th Jan - 28th Jan 
+Data science Demo
+29th & 30th --> Weekend
+31st -> 
+- Introduction to python 
+- Python Identifier
+1st,2nd ->
+- Introduction to basic code
+- Basic data types are completed
+	Task-0: Python for professional (15min)
+	Task-1: Basic data type
+	Task-2 : 118 pages books - (30min)
+3rd -->
+- Python data structures
+4th:8th -->
+- Datastructructure completed
+	Task-3 : Data structructure, Indexing 
+9th,10th -->
+- Numpy will start 
+        Task-4 : https://scipy.github.io/old-wiki/pages/Numpy_Example_List.html 
+	Task-5 : Numpy visualation 
+	Task-6 : Github, Stackoverflow, Hackerrank  
+****************************************
+-
